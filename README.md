@@ -1,1 +1,1 @@
-# shampubyshiro está hecho por shiro, yo sólo agregué el reproductor.
+# shampubyshiro está hecho por Shiro, yo sólo agregué el reproductor de música y modifiqué "connections".
